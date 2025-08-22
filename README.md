@@ -1,2 +1,2 @@
-# F-is-For
-Please leave your shoes at the front door, and enjoy yourself.
+#F-is-For
+A very basic weather webpage, inspired/guided by www.freecodecamp.org
